@@ -1,16 +1,16 @@
-## Hi there 👋
 
-<!--
-**F1007s/F1007s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Boas vindas ao meu perfil 🩵
+Meu nome é Fernanda Santos - Estou estudando na Alura 
+- Estou me desenvolvendo na linguagem JavaScript 
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos na escola.
+
+
+### Você pode entrar em contato comigo :mailbox 
+00001098179092sp@al.educacao.sp.gov.br 
+
+![image](https://github.com/user-attachments/assets/d25c5cc7-ee0f-48cb-a647-2e07848723b4)
+
+
+
